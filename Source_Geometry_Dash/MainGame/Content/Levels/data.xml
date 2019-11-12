@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="MapContent">
+  	<amount>9</amount>
+  	<sta>1 1 1 1 1 1 1 1 1 1 1 1</sta>
+  </Asset>
+</XnaContent>

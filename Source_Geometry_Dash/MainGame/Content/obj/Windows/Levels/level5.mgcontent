@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level5.xml</SourceFile>
+  <SourceTime>2019-01-09T12:10:26.3764219+07:00</SourceTime>
+  <DestFile>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/bin/Windows/Levels/level5.xnb</DestFile>
+  <DestTime>2019-11-08T22:50:56.4722069+07:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

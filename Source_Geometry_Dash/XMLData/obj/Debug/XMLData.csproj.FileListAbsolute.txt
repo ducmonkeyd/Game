@@ -1,0 +1,9 @@
+C:\Users\This\documents\visual studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\bin\Debug\XMLData.dll
+C:\Users\This\documents\visual studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\bin\Debug\XMLData.pdb
+C:\Users\This\documents\visual studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\bin\Debug\MonoGame.Framework.dll
+C:\Users\This\documents\visual studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\bin\Debug\MonoGame.Framework.xml
+C:\Users\This\documents\visual studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\obj\Debug\XMLData.dll
+C:\Users\This\documents\visual studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\obj\Debug\XMLData.pdb
+C:\Users\This\Documents\Visual Studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\obj\Debug\XMLData.csprojAssemblyReference.cache
+C:\Users\This\Documents\Visual Studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\obj\Debug\XMLData.csproj.CoreCompileInputs.cache
+C:\Users\This\Documents\Visual Studio 2015\Projects\FinalGame_Geometry_Dash\XMLData\obj\Debug\XMLData.csproj.CopyComplete

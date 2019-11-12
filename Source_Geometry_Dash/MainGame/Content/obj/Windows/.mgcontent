@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/spike.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/fontText.spritefont</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level1.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level2.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/map1.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/portal.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level3.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/level1.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/level2.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/win.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/endpoint.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level4.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/back.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/restart.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/meteor.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level5.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level6.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level7.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/data.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/level3.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/level4.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/level5.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level8.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/map2.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/map3.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/map4.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/map5.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background0.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background1.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background2.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background3.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background4.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/BackGround/background5.jpg</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Levels/level9.xml</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Menu/lose.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/1unit0.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/1unit1.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/1unit2.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/1unit3.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/2unit0.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/2unit1.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/3unit0.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Units/3unit1.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Map/bullet.png</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Music-SoundEffect/BaseAfterBase.mp3</File>
+    <File>C:/Users/This/Documents/Visual Studio 2015/Projects/FinalGame_Geometry_Dash/MainGame/Content/Music-SoundEffect/click.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
